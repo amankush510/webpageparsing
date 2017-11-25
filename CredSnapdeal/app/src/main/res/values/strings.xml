@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CredSnapdeal</string>
+    <string name="search_hint">Search Products</string>
+    <string name="search_products">Search</string>
+    <string name="home_title">Welcome To Snapdeall</string>
+    <string name="hint_text">To search for products and services, please enter your query above!</string>
+    <string name="no_product_find_error">O results found for your query. Please check again what you want to search for</string>
+</resources>

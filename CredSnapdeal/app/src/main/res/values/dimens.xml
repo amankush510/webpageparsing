@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_activity_left_margin">12dp</dimen>
+    <dimen name="main_activity_right_margin">12dp</dimen>
+    <dimen name="product_width">140dp</dimen>
+    <dimen name="product_height">140dp</dimen>
+</resources>
